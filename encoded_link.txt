@@ -1,0 +1,1 @@
+https%3A//auth.berkeley.edu/cas/login%3Fservice%3Dhttps%3A//services.housing.berkeley.edu/c1c/dyn/bals.asp%3Fpln%3Donfd1
