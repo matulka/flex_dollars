@@ -186,8 +186,4 @@ fout.write(str(data))
 fout.close()
 data_methods.plot_expenses(data_methods.get_all_tags(data))
 
-"""
-Вроде бы двойную аутентификацию я прохожу. Осталось понять, как именно передать
-эту информацию обратно в CAS, чтобы система меня авторизовала. Не очень понятно,
-откуда брать новый execution. Подпись DuoRepsponse передается через auth (lines 143-148).
-"""
+
